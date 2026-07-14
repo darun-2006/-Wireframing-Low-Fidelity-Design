@@ -1,11 +1,11 @@
 # Aurora Mart — Low-Fidelity Wireframe
 
-A low-fidelity wireframe of the Aurora Mart mobile shopping app, built as plain HTML/CSS.
+A low-fidelity wireframe of the Aurora Mart mobile shopping app, converted as plain HTML/CSS from a figma design.
 This represents the structural blueprint that the high-fidelity Aurora Mart UI was later
 designed from.
 
 ## What this is
-
+Converted from a Figma low-fidelity design into a working HTML/CSS build,
 A single wireframe screen (Home) showing layout, content hierarchy, and navigation flow —
 with no color, no real copy, and no real imagery, per standard low-fidelity wireframing
 conventions:
