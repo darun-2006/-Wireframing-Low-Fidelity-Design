@@ -64,9 +64,4 @@ This project is plain HTML/CSS, not a native `.fig` or `.xd` file. To bring it i
   Figma frame at 390px width (the design's base mobile width), then trace over with Figma's
   native shape and text tools.
 
-## Relationship to the high-fidelity design
 
-This wireframe uses the same section order, grid structure, and component grouping as the
-finished Aurora Mart UI (see the `aurora-mart` project). Only the visual styling changes
-between the two — colors, imagery, typography, and polish are added in the high-fidelity
-version, while the underlying layout stays the same.
